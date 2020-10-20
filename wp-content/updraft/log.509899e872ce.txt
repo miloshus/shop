@@ -1,0 +1,135 @@
+0000.002 () Opened log file at time: Fri, 16 Oct 2020 00:31:24 +0000 on http://milosv.sgedu.site
+0000.002 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.30 WP: 5.5.1 PHP: 7.3.23 (cgi-fcgi, Linux gnldm1020.siteground.biz 3.12.18-clouder0 #3 SMP PREEMPT Thu Sep 10 15:47:13 EEST 2020 x86_64) MySQL: 5.7.26-29-log WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 768M (used: 10.9M | 12M) multisite: N openssl: OpenSSL 1.1.1d FIPS  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.002 () Free space on disk containing Updraft's temporary directory: 1557454.2 MB
+0000.001 () Opened log file at time: Fri, 16 Oct 2020 00:31:25 +0000 on http://milosv.sgedu.site
+0000.002 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.30 WP: 5.5.1 PHP: 7.3.23 (cgi-fcgi, Linux gnldm1020.siteground.biz 3.12.18-clouder0 #3 SMP PREEMPT Thu Sep 10 15:47:13 EEST 2020 x86_64) MySQL: 5.7.26-29-log WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 768M (used: 10M | 12M) multisite: N openssl: OpenSSL 1.1.1d FIPS  10 Sep 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.002 () Free space on disk containing Updraft's temporary directory: 1557453.5 MB
+0000.006 () Ensuring WP_Filesystem is setup for a restore
+0000.006 () WP_Filesystem is setup and ready for a restore
+0000.011 () Restore job started. Entities to restore: plugins, themes, uploads, others, db. Restore options: {"include_unspecified_tables":false,"tables_to_restore":["wp_options","wp_users","wp_usermeta","wp_actionscheduler_actions","wp_actionscheduler_claims","wp_actionscheduler_groups","wp_actionscheduler_logs","wp_commentmeta","wp_comments","wp_links","wp_postmeta","wp_posts","wp_term_relationships","wp_term_taxonomy","wp_termmeta","wp_terms","wp_wc_category_lookup","wp_wc_product_meta_lookup","wp_wc_tax_rate_classes","wp_woocommerce_order_itemmeta","wp_woocommerce_payment_tokenmeta","wp_gf_draft_submissions","wp_gf_entry","wp_gf_entry_meta","wp_gf_entry_notes","wp_gf_form","wp_gf_form_meta","wp_gf_form_revisions","wp_gf_form_view","wp_wc_admin_note_actions","wp_wc_admin_notes","wp_wc_customer_lookup","wp_wc_download_log","wp_wc_order_coupon_lookup","wp_wc_order_product_lookup","wp_wc_order_stats","wp_wc_order_tax_lookup","wp_wc_reserved_stock","wp_wc_webhooks","wp_woocommerce_api_keys","wp_woocommerce_attribute_taxonomies","wp_woocommerce_downloadable_product_permissions","wp_woocommerce_log","wp_woocommerce_order_items","wp_woocommerce_payment_tokens","wp_woocommerce_sessions","wp_woocommerce_shipping_zone_locations","wp_woocommerce_shipping_zone_methods","wp_woocommerce_shipping_zones","wp_woocommerce_tax_rate_locations","wp_woocommerce_tax_rates"],"tables_to_skip":[],"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.012 () Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.013 () Entity: db
+0000.013 () restore_backup(backup_file=backup_2020-10-15-2351_shop_5958e73c8a41-db.gz, type=db, info=a:0:{}, last_one=)
+0000.013 () Unpacking backup... (backup_2020-10-15-2351_shop_5958e73c8a41-db.gz, 0.2 Mb)
+0000.014 () Database successfully unpacked
+0000.014 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.014 () Using direct MySQL access; value of use_mysqli is: 1
+0000.014 () SQL compatibility mode is: NO_AUTO_VALUE_ON_ZERO,NO_ENGINE_SUBSTITUTION
+0000.063 () Max packet size: 32 MB
+0000.063 () Entering maintenance mode
+0000.063 () Enabling Maintenance mode&#8230;
+0000.068 () Backup of: http://milosv.sgedu.site
+0000.068 () Content URL: http://milosv.sgedu.site/wp-content
+0000.068 () Uploads URL: http://milosv.sgedu.site/wp-content/uploads
+0000.068 () Old table prefix: wp_
+0000.069 () Site information: multisite=0
+0000.069 () Site information: sql_mode=NO_ENGINE_SUBSTITUTION
+0000.069 () Skipped tables: ppr_commentmeta, ppr_comments, ppr_links, ppr_options, ppr_postmeta, ppr_posts, ppr_term_relationships, ppr_term_taxonomy, ppr_termmeta, ppr_terms, ppr_usermeta, ppr_users
+0000.069 () New table prefix: wp_
+0000.072 () Processing table (MyISAM): wp_options
+0000.105 () Restoring prior UD configuration (table: wp_options; keys: 4)
+0000.109 () Elegant themes theme builder plugin data detected: resetting temporary folder
+0000.114 () Processing table (MyISAM): wp_users
+0000.122 () Processing table (MyISAM): wp_usermeta
+0000.129 () Processing table (MyISAM): wp_actionscheduler_actions
+0000.135 () Processing table (MyISAM): wp_actionscheduler_claims
+0000.140 () Processing table (MyISAM): wp_actionscheduler_groups
+0000.145 () Processing table (MyISAM): wp_actionscheduler_logs
+0000.149 () Processing table (MyISAM): wp_commentmeta
+0000.155 () Processing table (MyISAM): wp_comments
+0000.161 () Processing table (MyISAM): wp_links
+0000.166 () Processing table (MyISAM): wp_postmeta
+0000.175 () Processing table (MyISAM): wp_posts
+0000.188 () Processing table (MyISAM): wp_term_relationships
+0000.194 () Processing table (MyISAM): wp_term_taxonomy
+0000.199 () Processing table (MyISAM): wp_termmeta
+0000.205 () Processing table (MyISAM): wp_terms
+0000.209 () Database queries processed: 50 in 0.19 seconds
+0000.210 () Processing table (MyISAM): wp_wc_category_lookup
+0000.215 () Processing table (MyISAM): wp_wc_product_meta_lookup
+0000.220 () Processing table (MyISAM): wp_wc_tax_rate_classes
+0000.225 () Processing table (MyISAM): wp_woocommerce_order_itemmeta
+0000.230 () Processing table (MyISAM): wp_woocommerce_payment_tokenmeta
+0000.235 () Processing table (MyISAM): wp_gf_draft_submissions
+0000.239 () Processing table (MyISAM): wp_gf_entry
+0000.244 () Processing table (MyISAM): wp_gf_entry_meta
+0000.248 () Processing table (MyISAM): wp_gf_entry_notes
+0000.253 () Processing table (MyISAM): wp_gf_form
+0000.259 () Processing table (MyISAM): wp_gf_form_meta
+0000.265 () Processing table (MyISAM): wp_gf_form_revisions
+0000.270 () Processing table (MyISAM): wp_gf_form_view
+0000.274 () Processing table (MyISAM): wp_wc_admin_note_actions
+0000.279 () Processing table (MyISAM): wp_wc_admin_notes
+0000.284 () Processing table (MyISAM): wp_wc_customer_lookup
+0000.288 () Processing table (MyISAM): wp_wc_download_log
+0000.293 () Processing table (MyISAM): wp_wc_order_coupon_lookup
+0000.298 () Processing table (MyISAM): wp_wc_order_product_lookup
+0000.303 () Processing table (MyISAM): wp_wc_order_stats
+0000.308 () Processing table (MyISAM): wp_wc_order_tax_lookup
+0000.314 () Processing table (MyISAM): wp_wc_reserved_stock
+0000.316 () Database queries processed: 100 in 0.30 seconds
+0000.318 () Processing table (MyISAM): wp_wc_webhooks
+0000.323 () Processing table (MyISAM): wp_woocommerce_api_keys
+0000.328 () Processing table (MyISAM): wp_woocommerce_attribute_taxonomies
+0000.333 () Processing table (MyISAM): wp_woocommerce_downloadable_product_permissions
+0000.338 () Processing table (MyISAM): wp_woocommerce_log
+0000.343 () Processing table (MyISAM): wp_woocommerce_order_items
+0000.349 () Processing table (MyISAM): wp_woocommerce_payment_tokens
+0000.354 () Processing table (MyISAM): wp_woocommerce_sessions
+0000.359 () Processing table (MyISAM): wp_woocommerce_shipping_zone_locations
+0000.364 () Processing table (MyISAM): wp_woocommerce_shipping_zone_methods
+0000.369 () Processing table (MyISAM): wp_woocommerce_shipping_zones
+0000.373 () Processing table (MyISAM): wp_woocommerce_tax_rate_locations
+0000.378 () Processing table (MyISAM): wp_woocommerce_tax_rates
+0000.394 () Unlocking database and leaving maintenance mode
+0000.394 () Disabling Maintenance mode&#8230;
+0000.395 () Finished: lines processed: 130 in 0.38 seconds
+0000.395 () Cleaning up rubbish...
+0000.402 () Entity: plugins
+0000.402 () restore_backup(backup_file=backup_2020-10-15-2351_shop_5958e73c8a41-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:67:"/home/customer/www/milosv.sgedu.site/public_html/wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=)
+0000.402 () Unpacking backup... (backup_2020-10-15-2351_shop_5958e73c8a41-plugins.zip, 21.5 MB)
+0000.405 () Unzipping backup_2020-10-15-2351_shop_5958e73c8a41-plugins.zip to /home/customer/www/milosv.sgedu.site/public_html/wp-content/upgrade/2dfc7002/ using UpdraftPlus_ZipArchive, starting index 0
+0000.527 () Unzip progress: 1002 out of 5661 files (5 MB, plugins/updraftplus/includes/cloudfiles/cloudfiles.php)
+0000.684 () Unzip progress: 2003 out of 5661 files (24 MB, plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Common/HasDispatcherInterface.php)
+0000.802 () Unzip progress: 3004 out of 5661 files (35.7 MB, plugins/sg-cachepress/assets/images/svg/product-referral-program-step-two.svg)
+0000.932 () Unzip progress: 4005 out of 5661 files (49.1 MB, plugins/woocommerce-4.1.0/vendor/composer/installers/src/Composer/Installers/BaseInstaller.php)
+0001.034 () Unzip progress: 5006 out of 5661 files (58.5 MB, plugins/woocommerce-4.1.0/packages/woocommerce-blocks/vendor/automattic/jetpack-autoloader/src/CustomAutoloaderPlugin.php)
+0001.131 () Unzip progress: 5661 out of 5661 files (72.5 MB, plugins/woocommerce-4.1.0/packages/woocommerce-blocks/assets/js/base/components/checkbox-list/index.js)
+0001.134 () Moving old data: filesystem method / updraft_dir is potentially possible
+0001.134 () Moving old data: can potentially use wp_filesystem method / -old
+0001.134 () Moving old data out of the way...
+0001.303 () Top-level entities being moved: akismet, hello.php, autoptimize, classic-editor, index.php, better-search-replace, dp-owl-carousel-pro, wp-rollback, updraftplus, sg-cachepress, gravityforms, woocommerce-4.1.0
+0001.306 () Moving unpacked backup into place...
+0001.458 () Top-level entities being moved: akismet, hello.php, autoptimize, classic-editor, index.php, better-search-replace, dp-owl-carousel-pro, wp-rollback, updraftplus, sg-cachepress, gravityforms, woocommerce-4.1.0
+0001.461 () Cleaning up rubbish...
+0001.463 () Entity: themes
+0001.463 () restore_backup(backup_file=backup_2020-10-15-2351_shop_5958e73c8a41-themes.zip, type=themes, info=a:2:{s:4:"path";s:66:"/home/customer/www/milosv.sgedu.site/public_html/wp-content/themes";s:11:"description";s:6:"Themes";}, last_one=)
+0001.463 () Unpacking backup... (backup_2020-10-15-2351_shop_5958e73c8a41-themes.zip, 11.7 MB)
+0001.464 () Unzipping backup_2020-10-15-2351_shop_5958e73c8a41-themes.zip to /home/customer/www/milosv.sgedu.site/public_html/wp-content/upgrade/8ab06eab/ using UpdraftPlus_ZipArchive, starting index 0
+0001.807 () Unzip progress: 1002 out of 1286 files (33.6 MB, themes/Divi/core/admin/images/svg/security.svg)
+0001.846 () Unzip progress: 1286 out of 1286 files (38.2 MB, themes/twentynineteen/image.php)
+0001.847 () Moving old data: filesystem method / updraft_dir is potentially possible
+0001.848 () Moving old data: can potentially use wp_filesystem method / -old
+0001.848 () Moving old data out of the way...
+0001.884 () Top-level entities being moved: index.php, twentytwenty, twentyseventeen, Divi, twentynineteen
+0001.885 () Moving unpacked backup into place...
+0001.919 () Top-level entities being moved: index.php, twentytwenty, twentyseventeen, Divi, twentynineteen
+0001.920 () Cleaning up rubbish...
+0001.922 () Entity: uploads
+0001.922 () restore_backup(backup_file=backup_2020-10-15-2351_shop_5958e73c8a41-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:67:"/home/customer/www/milosv.sgedu.site/public_html/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0001.922 () Unpacking backup... (backup_2020-10-15-2351_shop_5958e73c8a41-uploads.zip, 10.6 MB)
+0001.922 () Unzipping backup_2020-10-15-2351_shop_5958e73c8a41-uploads.zip to /home/customer/www/milosv.sgedu.site/public_html/wp-content/upgrade/baf1104e/ using UpdraftPlus_ZipArchive, starting index 0
+0001.965 () Unzip progress: 322 out of 322 files (10.5 MB, uploads/woocommerce-placeholder-768x768.png)
+0001.965 () Moving old data: filesystem method / updraft_dir is potentially possible
+0001.965 () Moving old data: can potentially use wp_filesystem method / -old
+0001.965 () Moving old data out of the way...
+0001.976 () Moving unpacked backup into place...
+0001.984 () Cleaning up rubbish...
+0001.986 () Entity: others
+0001.986 () restore_backup(backup_file=backup_2020-10-15-2351_shop_5958e73c8a41-others.zip, type=others, info=a:2:{s:4:"path";s:59:"/home/customer/www/milosv.sgedu.site/public_html/wp-content";s:11:"description";s:6:"Others";}, last_one=1)
+0001.986 () Unpacking backup... (backup_2020-10-15-2351_shop_5958e73c8a41-others.zip, 0 MB)
+0001.986 () Unzipping backup_2020-10-15-2351_shop_5958e73c8a41-others.zip to /home/customer/www/milosv.sgedu.site/public_html/wp-content/upgrade/e46e84db/ using UpdraftPlus_ZipArchive, starting index 0
+0001.987 () Unzip progress: 4 out of 4 files (28 B, index.php)
+0001.987 () Cleaning up rubbish...
+0002.003 () Restore successful!
+0002.003 () Restore successful

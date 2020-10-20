@@ -1,0 +1,241 @@
+version 2.1.2 ( 6-9-2020 )
+
+- Fixed PHP error when logged into WordPress as non-admin user
+
+version 2.1.1 ( 6-5-2020 )
+
+- Added filter to allow adding or overriding the carousel options
+
+- Term hierarchy now visible when making selection in module settings
+
+- Added ability to choose empty terms in module settings
+
+- Added post count to terms in module settings
+
+- Added alt attributes to arrow buttons html for WCAG 2 compliance
+
+- Fixed module custom CSS class breaking thumbnail navigation when url anchor active
+
+version 2.1 ( 3-4-2020 )
+
+- Added option to show or hide the featured image
+
+- Added mouse drag, touch drag and pull drag options
+
+- Added the the_ID (post ID) to the module props array
+
+- Added custom field type option to orderby
+
+- Added custom url option
+
+- Removed Auto Width Images option from applying to mobile
+
+version 2.0.8 ( 9-4-2019 )
+
+- Fixed carousel not rotating to the correct image when clicking on thumbnail navigation image.
+
+version 2.0.7 ( 7-10-2019 )
+
+- Fixed issue with custom lightbox gallery filter applying to carousels that did not have the custom lightbox gallery option selected.
+
+version 2.0.6 ( 7-8-2019 )
+
+- Added custom lightbox option. Lightbox gallery can now load images from a custom field or filter.
+
+version 2.0.5 ( 5-24-2019 )
+
+- Fixed broken Remove Current Post option
+
+version 2.0.4 ( 5-22-2019 )
+
+- Force deactivate latest version of Owl Carousel plugin (free version) when Owl Carousel Pro activated to avoid conflicts
+
+version 2.0.3 ( 3-5-2019 )
+
+- Fixed conflict with WPML and post type, category, and tag popups not displaying when editing modules
+
+version 2.0.2 ( 2-14-2019 )
+
+- Fixed PHP error related to missing image width value
+
+- Fixed conflict with other plugins when selecting query options
+
+version 2.0.1 ( 2-3-2019 )
+
+- Removed URL hash from modules not using thumbnail navigation
+
+version 2.0 ( 1-30-2019 )
+
+- Added full Visual Builder support
+
+- Added custom content filter
+
+version 1.5.8 ( 11-1-2018 )
+
+- Fixed lightbox gallery not working properly in IE11
+
+version 1.5.7 ( 9-27-2018 )
+
+- Changed Lazy Load option to off by default due to compatibility issues with some third party plugins
+
+version 1.5.6 ( 9-25-2018 )
+
+- Added 'Linear' Carousel Behavior option
+
+- Added Lazy Load option to images
+
+version 1.5.5 ( 9-10-2018 )
+
+- Removed 'px' from Thumbnails to Display value in Visual Builder
+
+version 1.5.4 ( 9-5-2018 )
+
+- Fixed Image Content not displaying or saving in Visual Builder
+
+- Changed lightbox trigger class from et_pb_lightbox_image to dp_ocp_lightbox_image for more control over lightbox gallery
+
+version 1.5.3 ( 7-25-2018 )
+
+- Removed inline width from dp_oc_item container in image carousels when Autowidth option turned off
+
+version 1.5.2 ( 7-18-2018 )
+
+- Carousel arrows are now vertically aligned exactly in the middle of the carousel
+
+- Fixed duplicate thumbnails in thumbnail navigation
+
+- Fixed lightbox gallery getting stuck on one image in the carousel
+
+- Carousel items that do not contain an image now have width set to Thumbnail Size width when Autowidth option turned on
+
+version 1.5.1 ( 6-29-2018 )
+
+- Fixed responsive issues with carousel on tablet and mobile devices.
+
+version 1.5 ( 6-28-2018 )
+
+- Complete rewrite of the plugin from procedural to OOP.
+
+- Added lightbox gallery option
+
+- Added animation speed for auto rotate, arrows, and controls
+
+- Added Custom CSS boxes in Advanced tab for custom field labels and values
+
+- Added option to remove the current post from the carousel
+
+version 1.4.2 ( 5-9-2018 )
+
+- Added auto width option
+
+- Added read more and read more text options
+
+- Added image alt and title options for the custom carousel
+
+- Added image alt tag to blog carousel
+
+- Updated owl carousel dependency to 2.3.4 version
+
+version 1.4.1 ( 4-20-2018 )
+
+- Compatibility with Divi 3.1
+
+version 1.4 ( 3-12-2018 )
+
+- Added navigation thumbnails
+
+- Added option to increase items per slide for arrows
+
+- Added filter for excerpt output
+
+- If thumbnail size doesn't exist, plugin will now load the original image
+
+- Moved enqueue of scripts from main plugin file to each module
+
+- Fixed Image Carousel font size for image title
+
+version 1.3.2 ( 1-26-2018 )
+
+- Added post type filter
+
+version 1.3.1 ( 1-17-2018 )
+
+- Added ability to use any taxonomy for the include/exclude options
+
+- Improved the function that loads the modules according to the version of the Divi theme or the Divi Builder plugin installed
+
+- Removed all html tags from the excerpt to prevent unclosed tags from breaking page layout
+
+- Private posts now display if user is logged in
+
+- Fixed bug on carousel hover not restarting after clicking on carousel item link
+
+version 1.3 ( 12-15-2017 )
+
+- Added two new fullwidth modules
+
+- Fixed broken "Open in New Tab" option
+
+- Added Polylang compatibility
+
+version 1.2.1 ( 10-31-2017 )
+
+- Fixed empty custom Post Type and Category checklists in modules
+
+version 1.2 ( 10-30-2017 )
+
+- Added ability to refresh Post Type and Category checklists from within modules
+
+- Added WPML compatibility
+
+version 1.1.9 ( 8-27-2017 )
+
+- Added auto update from WordPress dashboard
+
+version 1.1.8 ( 8-11-2017 )
+
+- Fixed function not working in versions of PHP prior to 5.5
+
+version 1.1.7 ( 8-10-2017 )
+
+- Prevent tags from showing up in category checkbox
+
+– Require jQuery before loading scripts
+
+version 1.1.6 ( 8-03-2017 )
+
+- Fixed custom post type not getting checked in the module if only selecting single categories
+
+– Fixed typo in Custom Query description
+
+version 1.1.5 ( 7-28-2017 )
+
+- Post types without categories are now selectable
+
+version 1.1.4 ( 7-18-2017 )
+
+- Added ability to change margin between images
+
+- Added default tablet and mobile font sizes
+
+version 1.1.3 ( 7-16-2017 )
+
+- Changed method for saving selected CPTs and categories, solving the issue in which the module displayed wrong categories after new categories were created.
+
+version 1.1.2 ( 7-5-2017 )
+
+- Changed name of custom query filter
+
+version 1.1.1 ( 6-30-2017 )
+
+- Added option to load full image for images that are too small to have thumbnails.
+
+version 1.1 ( 6-29-2017 )
+
+- Added Image Carousel module
+
+- Adjusted default options
+
+version 1.0 ( 6-21-2017 )
+
+- Initial release

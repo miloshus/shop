@@ -1,0 +1,1792 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: DP Owl Carousel Pro\n"
+"POT-Creation-Date: 2020-06-04 14:58-0400\n"
+"PO-Revision-Date: 2018-07-14 10:52-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: dp_owl_carousel_pro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: admin/class-dpocp-admin.php:91
+msgid "Owl Carousel Square"
+msgstr ""
+
+#: admin/class-dpocp-admin.php:100
+msgid "License"
+msgstr ""
+
+#: admin/class-dpocp-admin.php:101
+msgid "Get support"
+msgstr ""
+
+#: admin/class-dpocp-admin.php:123
+msgid "Owl Carousel Pro License"
+msgstr ""
+
+#: admin/class-dpocp-admin.php:126
+msgid "License Key"
+msgstr ""
+
+#: admin/class-dpocp-admin.php:127
+msgid " Enter your license key"
+msgstr ""
+
+#: admin/class-dpocp-admin.php:128
+msgid "License Status"
+msgstr ""
+
+#: admin/class-dpocp-admin.php:130
+msgid "Active"
+msgstr ""
+
+#: admin/class-dpocp-admin.php:132
+msgid "Deactivate License"
+msgstr ""
+
+#: admin/class-dpocp-admin.php:134
+msgid "Inactive"
+msgstr ""
+
+#: admin/class-dpocp-admin.php:136
+msgid "Activate License"
+msgstr ""
+
+#: admin/class-dpocp-admin.php:186
+msgid "An error occurred on the license server, please try again."
+msgstr ""
+
+#: admin/class-dpocp-admin.php:194
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: admin/class-dpocp-admin.php:198
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: admin/class-dpocp-admin.php:201
+msgid "Invalid license."
+msgstr ""
+
+#: admin/class-dpocp-admin.php:205
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: admin/class-dpocp-admin.php:208
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: admin/class-dpocp-admin.php:211
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: admin/class-dpocp-admin.php:214
+msgid "An error occurred with the license data, please try again."
+msgstr ""
+
+#: admin/class-dpocp-admin.php:255
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: admin/class-dpocp-admin.php:277
+msgid "Thank you for purchasing and activating DP Owl Carousel Pro."
+msgstr ""
+
+#: admin/class-dpocp-admin.php:283
+msgid ""
+"Please activate your Owl Carousel Pro license to receive support and "
+"automatic updates."
+msgstr ""
+
+#: admin/class-dpocp-admin.php:283
+msgid "Activation Page"
+msgstr ""
+
+#: admin/class-dpocp-admin.php:287
+msgid ""
+"We noticed that you have DP Owl Carousel Free version activated. We just "
+"deactivated it for you. These plugins cannot be activated at the same time."
+msgstr ""
+
+#: includes/class-dp-page.php:37
+msgid ""
+"Divi Plugins extend the functionality and features of the Divi Theme by "
+"Elegant Themes."
+msgstr ""
+
+#: includes/class-dp-page.php:48
+msgid "Need Support?"
+msgstr ""
+
+#: includes/class-dp-page.php:52
+msgid "Manage licenses"
+msgstr ""
+
+#: includes/class-dp-page.php:53
+msgid "Documentation"
+msgstr ""
+
+#: includes/class-dp-page.php:54
+msgid "FAQs"
+msgstr ""
+
+#: includes/class-dp-page.php:55
+msgid "Open a support ticket"
+msgstr ""
+
+#: includes/class-dp-page.php:56
+msgid "Need a custom Divi module?"
+msgstr ""
+
+#: includes/class-dp-page.php:57
+msgid "Affiliate program"
+msgstr ""
+
+#: includes/class-dpocp-updater.php:325
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: includes/class-dpocp-updater.php:333
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: includes/class-dpocp-updater.php:461
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: includes/class-dpocp-updater.php:461
+msgid "Error"
+msgstr ""
+
+#: includes/class-dpocp-utils.php:248
+#, php-format
+msgctxt "number of comments"
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-dpocp-utils.php:280
+msgid "No posts found"
+msgstr ""
+
+#: includes/class-dpocp-utils.php:552
+msgid ""
+"Select one or more post types below. Use CTRL or SHIFT to select multiple."
+msgstr ""
+
+#: includes/class-dpocp-utils.php:594
+msgid "Set Values"
+msgstr ""
+
+#: includes/class-dpocp-utils.php:595
+msgid "Clean Values"
+msgstr ""
+
+#: includes/class-dpocp-utils.php:596
+msgid "Exit"
+msgstr ""
+
+#: includes/class-dpocp-utils.php:615
+msgid ""
+"Select one or more taxonomies below. Use CTRL or SHIFT to select multiple."
+msgstr ""
+
+#: includes/class-dpocp-utils.php:692
+msgid "Select one or more terms below. Use CTRL or SHIFT to select multiple."
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:26
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:27
+msgid "DP Owl Image Carousel"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:28
+#: includes/modules/ImageCarousel/ImageCarousel.php:125
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:29
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:126
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:14
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:15
+msgid "Image"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:45
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:46
+#: includes/modules/PostsCarousel/PostsCarousel.php:33
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:34
+msgid "Carousel Options"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:51
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:52
+#: includes/modules/PostsCarousel/PostsCarousel.php:39
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:40
+msgid "Arrow"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:55
+#: includes/modules/ImageCarousel/ImageCarousel.php:117
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:56
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:118
+#: includes/modules/PostsCarousel/PostsCarousel.php:43
+#: includes/modules/PostsCarousel/PostsCarousel.php:129
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:44
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:130
+msgid "Controls"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:59
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:60
+#: includes/modules/PostsCarousel/PostsCarousel.php:47
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:48
+msgid "Thumbnails"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:63
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:64
+#: includes/modules/PostsCarousel/PostsCarousel.php:51
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:52
+msgid "Thumbnails Navigation"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:67
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:68
+#: includes/modules/PostsCarousel/PostsCarousel.php:55
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:56
+msgid "Click Action"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:79
+#: includes/modules/ImageCarousel/ImageCarousel.php:129
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:80
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:130
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:86
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:86
+msgid "Image Title"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:87
+#: includes/modules/ImageCarousel/ImageCarousel.php:133
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:88
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:134
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:92
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:92
+msgid "Image Content"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:105
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:106
+#: includes/modules/PostsCarousel/PostsCarousel.php:117
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:118
+msgid "Carousel Items Container"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:109
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:110
+#: includes/modules/PostsCarousel/PostsCarousel.php:121
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:122
+msgid "Previous Arrow"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:113
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:114
+#: includes/modules/PostsCarousel/PostsCarousel.php:125
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:126
+msgid "Next Arrow"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:121
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:122
+#: includes/modules/PostsCarousel/PostsCarousel.php:133
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:134
+msgid "Active Control"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:137
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:138
+#: includes/modules/PostsCarousel/PostsCarousel.php:169
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:170
+msgid "Navigation Thumbnail Container"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:141
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:142
+#: includes/modules/PostsCarousel/PostsCarousel.php:173
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:174
+msgid "Navigation Thumbnail Images"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:153
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:154
+#: includes/modules/PostsCarousel/PostsCarousel.php:577
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:578
+msgid "Show Arrows"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:157
+#: includes/modules/ImageCarousel/ImageCarousel.php:180
+#: includes/modules/ImageCarousel/ImageCarousel.php:203
+#: includes/modules/ImageCarousel/ImageCarousel.php:217
+#: includes/modules/ImageCarousel/ImageCarousel.php:261
+#: includes/modules/ImageCarousel/ImageCarousel.php:274
+#: includes/modules/ImageCarousel/ImageCarousel.php:287
+#: includes/modules/ImageCarousel/ImageCarousel.php:300
+#: includes/modules/ImageCarousel/ImageCarousel.php:322
+#: includes/modules/ImageCarousel/ImageCarousel.php:334
+#: includes/modules/ImageCarousel/ImageCarousel.php:346
+#: includes/modules/ImageCarousel/ImageCarousel.php:413
+#: includes/modules/ImageCarousel/ImageCarousel.php:429
+#: includes/modules/ImageCarousel/ImageCarousel.php:482
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:158
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:181
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:204
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:218
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:262
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:275
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:288
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:301
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:323
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:335
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:347
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:414
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:430
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:483
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:50
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:61
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:50
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:61
+#: includes/modules/PostsCarousel/PostsCarousel.php:189
+#: includes/modules/PostsCarousel/PostsCarousel.php:222
+#: includes/modules/PostsCarousel/PostsCarousel.php:237
+#: includes/modules/PostsCarousel/PostsCarousel.php:376
+#: includes/modules/PostsCarousel/PostsCarousel.php:388
+#: includes/modules/PostsCarousel/PostsCarousel.php:402
+#: includes/modules/PostsCarousel/PostsCarousel.php:424
+#: includes/modules/PostsCarousel/PostsCarousel.php:437
+#: includes/modules/PostsCarousel/PostsCarousel.php:451
+#: includes/modules/PostsCarousel/PostsCarousel.php:463
+#: includes/modules/PostsCarousel/PostsCarousel.php:494
+#: includes/modules/PostsCarousel/PostsCarousel.php:517
+#: includes/modules/PostsCarousel/PostsCarousel.php:557
+#: includes/modules/PostsCarousel/PostsCarousel.php:581
+#: includes/modules/PostsCarousel/PostsCarousel.php:604
+#: includes/modules/PostsCarousel/PostsCarousel.php:627
+#: includes/modules/PostsCarousel/PostsCarousel.php:641
+#: includes/modules/PostsCarousel/PostsCarousel.php:685
+#: includes/modules/PostsCarousel/PostsCarousel.php:698
+#: includes/modules/PostsCarousel/PostsCarousel.php:711
+#: includes/modules/PostsCarousel/PostsCarousel.php:724
+#: includes/modules/PostsCarousel/PostsCarousel.php:746
+#: includes/modules/PostsCarousel/PostsCarousel.php:758
+#: includes/modules/PostsCarousel/PostsCarousel.php:770
+#: includes/modules/PostsCarousel/PostsCarousel.php:872
+#: includes/modules/PostsCarousel/PostsCarousel.php:885
+#: includes/modules/PostsCarousel/PostsCarousel.php:899
+#: includes/modules/PostsCarousel/PostsCarousel.php:912
+#: includes/modules/PostsCarousel/PostsCarousel.php:929
+#: includes/modules/PostsCarousel/PostsCarousel.php:982
+#: includes/modules/PostsCarousel/PostsCarousel.php:999
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:190
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:223
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:238
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:377
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:389
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:403
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:425
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:438
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:452
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:464
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:495
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:518
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:558
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:582
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:605
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:628
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:642
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:686
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:699
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:712
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:725
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:747
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:759
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:771
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:873
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:886
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:900
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:913
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:930
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:983
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:1000
+msgid "No"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:158
+#: includes/modules/ImageCarousel/ImageCarousel.php:181
+#: includes/modules/ImageCarousel/ImageCarousel.php:204
+#: includes/modules/ImageCarousel/ImageCarousel.php:218
+#: includes/modules/ImageCarousel/ImageCarousel.php:262
+#: includes/modules/ImageCarousel/ImageCarousel.php:275
+#: includes/modules/ImageCarousel/ImageCarousel.php:288
+#: includes/modules/ImageCarousel/ImageCarousel.php:301
+#: includes/modules/ImageCarousel/ImageCarousel.php:323
+#: includes/modules/ImageCarousel/ImageCarousel.php:335
+#: includes/modules/ImageCarousel/ImageCarousel.php:347
+#: includes/modules/ImageCarousel/ImageCarousel.php:414
+#: includes/modules/ImageCarousel/ImageCarousel.php:430
+#: includes/modules/ImageCarousel/ImageCarousel.php:483
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:159
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:182
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:205
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:219
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:263
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:276
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:289
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:302
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:324
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:336
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:348
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:415
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:431
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:484
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:51
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:62
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:51
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:62
+#: includes/modules/PostsCarousel/PostsCarousel.php:190
+#: includes/modules/PostsCarousel/PostsCarousel.php:223
+#: includes/modules/PostsCarousel/PostsCarousel.php:236
+#: includes/modules/PostsCarousel/PostsCarousel.php:375
+#: includes/modules/PostsCarousel/PostsCarousel.php:389
+#: includes/modules/PostsCarousel/PostsCarousel.php:401
+#: includes/modules/PostsCarousel/PostsCarousel.php:425
+#: includes/modules/PostsCarousel/PostsCarousel.php:438
+#: includes/modules/PostsCarousel/PostsCarousel.php:450
+#: includes/modules/PostsCarousel/PostsCarousel.php:464
+#: includes/modules/PostsCarousel/PostsCarousel.php:495
+#: includes/modules/PostsCarousel/PostsCarousel.php:518
+#: includes/modules/PostsCarousel/PostsCarousel.php:558
+#: includes/modules/PostsCarousel/PostsCarousel.php:582
+#: includes/modules/PostsCarousel/PostsCarousel.php:605
+#: includes/modules/PostsCarousel/PostsCarousel.php:628
+#: includes/modules/PostsCarousel/PostsCarousel.php:642
+#: includes/modules/PostsCarousel/PostsCarousel.php:686
+#: includes/modules/PostsCarousel/PostsCarousel.php:699
+#: includes/modules/PostsCarousel/PostsCarousel.php:712
+#: includes/modules/PostsCarousel/PostsCarousel.php:725
+#: includes/modules/PostsCarousel/PostsCarousel.php:747
+#: includes/modules/PostsCarousel/PostsCarousel.php:759
+#: includes/modules/PostsCarousel/PostsCarousel.php:771
+#: includes/modules/PostsCarousel/PostsCarousel.php:873
+#: includes/modules/PostsCarousel/PostsCarousel.php:886
+#: includes/modules/PostsCarousel/PostsCarousel.php:900
+#: includes/modules/PostsCarousel/PostsCarousel.php:913
+#: includes/modules/PostsCarousel/PostsCarousel.php:930
+#: includes/modules/PostsCarousel/PostsCarousel.php:983
+#: includes/modules/PostsCarousel/PostsCarousel.php:1000
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:191
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:224
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:237
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:376
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:390
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:402
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:426
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:439
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:451
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:465
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:496
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:519
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:559
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:583
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:606
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:629
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:643
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:687
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:700
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:713
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:726
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:748
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:760
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:772
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:874
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:887
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:901
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:914
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:931
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:984
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:1001
+msgid "Yes"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:163
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:164
+#: includes/modules/PostsCarousel/PostsCarousel.php:587
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:588
+msgid ""
+"This setting allows you to turn the navigation arrows on or off. Arrows will "
+"only display if the number of available posts exceeds the number of "
+"thumbnails set to display per slide."
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:166
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:167
+#: includes/modules/PostsCarousel/PostsCarousel.php:590
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:591
+msgid "Items Per Slide Action"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:173
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:174
+#: includes/modules/PostsCarousel/PostsCarousel.php:597
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:598
+msgid "Number of posts to slide left or right when clicking the arrows."
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:176
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:177
+#: includes/modules/PostsCarousel/PostsCarousel.php:600
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:601
+msgid "Show Controls"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:186
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:187
+#: includes/modules/PostsCarousel/PostsCarousel.php:610
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:611
+msgid ""
+"Turn navigation controls on or off. Controls will only display if the number "
+"of available posts exceeds the number of thumbnails set to display."
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:189
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:190
+#: includes/modules/PostsCarousel/PostsCarousel.php:613
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:614
+msgid "Items Per Control Action"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:196
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:197
+#: includes/modules/PostsCarousel/PostsCarousel.php:620
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:621
+msgid ""
+"Number of posts to slide left or right when clicking the control dots. "
+"Disabled if Center option is turned on."
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:199
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:200
+#: includes/modules/PostsCarousel/PostsCarousel.php:623
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:624
+msgid "Use Navigation Thumbnail Images"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:210
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:211
+#: includes/modules/PostsCarousel/PostsCarousel.php:634
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:635
+msgid "Use navigation thumbnails images instead of controls."
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:213
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:214
+#: includes/modules/PostsCarousel/PostsCarousel.php:637
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:638
+msgid "URL Anchors"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:227
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:228
+#: includes/modules/PostsCarousel/PostsCarousel.php:651
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:652
+msgid ""
+"Turn this option on if you want to link to a specific carousel image using "
+"an URL anchor."
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:230
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:231
+#: includes/modules/PostsCarousel/PostsCarousel.php:654
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:655
+msgid "Carousel Behavior"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:234
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:235
+#: includes/modules/PostsCarousel/PostsCarousel.php:658
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:659
+msgid "Loop"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:235
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:236
+#: includes/modules/PostsCarousel/PostsCarousel.php:659
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:660
+msgid "Rewind"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:236
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:237
+#: includes/modules/PostsCarousel/PostsCarousel.php:660
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:661
+msgid "Linear"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:241
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:242
+#: includes/modules/PostsCarousel/PostsCarousel.php:665
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:666
+msgid ""
+"Choose whether carousel should advance in an infinite loop, jump to first "
+"item when it reaches the end, or stop when it reaches the end."
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:244
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:245
+#: includes/modules/PostsCarousel/PostsCarousel.php:668
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:669
+msgid "Carousel Direction"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:248
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:249
+#: includes/modules/PostsCarousel/PostsCarousel.php:672
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:673
+msgid "Right to left"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:249
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:250
+#: includes/modules/PostsCarousel/PostsCarousel.php:673
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:674
+msgid "Left to right"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:254
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:255
+#: includes/modules/PostsCarousel/PostsCarousel.php:678
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:679
+msgid "Choose which direction the carousel should advance."
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:257
+#: includes/modules/ImageCarousel/ImageCarousel.php:499
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:258
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:500
+#: includes/modules/PostsCarousel/PostsCarousel.php:681
+#: includes/modules/PostsCarousel/PostsCarousel.php:785
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:682
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:786
+msgid "Center"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:267
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:268
+#: includes/modules/PostsCarousel/PostsCarousel.php:691
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:692
+msgid ""
+"First carousel item will always start in the center of the carousel. This "
+"option must be turned on to center the clicked image in the carousel when "
+"using Navigation Thumbnails."
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:270
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:271
+#: includes/modules/PostsCarousel/PostsCarousel.php:694
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:695
+msgid "Auto Width Images"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:280
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:281
+#: includes/modules/PostsCarousel/PostsCarousel.php:704
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:705
+msgid ""
+"Turn this option on if you want to display images in the size set in the "
+"Thumbnail Size option in the Design tab. Leave this option off if you want "
+"images to display evenly and adhere to Thumbnails Per Slide option in the "
+"Design tab."
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:283
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:284
+#: includes/modules/PostsCarousel/PostsCarousel.php:707
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:708
+msgid "Lazy Load"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:293
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:294
+#: includes/modules/PostsCarousel/PostsCarousel.php:717
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:718
+msgid ""
+"Turn this option on if you want images to load on demand. This option may "
+"not be compatible with some caching and optimizing plugins and should be "
+"turned off if you experience any display issues with the carousel."
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:296
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:297
+#: includes/modules/PostsCarousel/PostsCarousel.php:720
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:721
+msgid "Use Mousewheel"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:306
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:307
+#: includes/modules/PostsCarousel/PostsCarousel.php:730
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:731
+msgid "Activate carousel navigation using the mouse wheel."
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:309
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:310
+#: includes/modules/PostsCarousel/PostsCarousel.php:733
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:734
+msgid "Mousewheel Delay"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:318
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:319
+#: includes/modules/PostsCarousel/PostsCarousel.php:742
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:743
+msgid "Mouse Drag"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:330
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:331
+#: includes/modules/PostsCarousel/PostsCarousel.php:754
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:755
+msgid "Touch Drag"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:342
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:343
+#: includes/modules/PostsCarousel/PostsCarousel.php:766
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:767
+msgid "Pull Drag"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:357
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:358
+#: includes/modules/PostsCarousel/PostsCarousel.php:816
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:817
+msgid "Arrows color"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:366
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:367
+#: includes/modules/PostsCarousel/PostsCarousel.php:825
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:826
+msgid "Arrows size"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:370
+#: includes/modules/ImageCarousel/ImageCarousel.php:396
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:371
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:397
+#: includes/modules/PostsCarousel/PostsCarousel.php:829
+#: includes/modules/PostsCarousel/PostsCarousel.php:855
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:830
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:856
+msgid "Small"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:371
+#: includes/modules/ImageCarousel/ImageCarousel.php:397
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:372
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:398
+#: includes/modules/PostsCarousel/PostsCarousel.php:830
+#: includes/modules/PostsCarousel/PostsCarousel.php:856
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:831
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:857
+msgid "Medium"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:372
+#: includes/modules/ImageCarousel/ImageCarousel.php:398
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:373
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:399
+#: includes/modules/PostsCarousel/PostsCarousel.php:831
+#: includes/modules/PostsCarousel/PostsCarousel.php:857
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:832
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:858
+msgid "Large"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:383
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:384
+#: includes/modules/PostsCarousel/PostsCarousel.php:842
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:843
+msgid "Control color"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:392
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:393
+#: includes/modules/PostsCarousel/PostsCarousel.php:851
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:852
+msgid "Control size"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:409
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:410
+#: includes/modules/PostsCarousel/PostsCarousel.php:881
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:882
+msgid "Use Lightbox Gallery"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:419
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:420
+#: includes/modules/PostsCarousel/PostsCarousel.php:892
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:893
+msgid ""
+"Turn this option on if you want the lightbox to display all images from the "
+"carousel in a gallery. Leave this option off if you only want the clicked "
+"image to display in the lightbox."
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:425
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:426
+#: includes/modules/PostsCarousel/PostsCarousel.php:925
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:926
+msgid "Automatic Rotate"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:435
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:436
+#: includes/modules/PostsCarousel/PostsCarousel.php:935
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:936
+msgid ""
+"If you would like the carousel to rotate automatically, without the visitor "
+"having to click the next button, enable this option and then adjust the "
+"rotation speed below if desired."
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:438
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:439
+#: includes/modules/PostsCarousel/PostsCarousel.php:938
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:939
+msgid "Automatic Rotate Speed (in ms)"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:445
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:446
+#: includes/modules/PostsCarousel/PostsCarousel.php:945
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:946
+msgid ""
+"Here you can designate how fast the carousel rotates between each slide, if "
+"'Automatic Rotate' option is enabled above. The higher the number the longer "
+"the pause between each rotation."
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:448
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:449
+#: includes/modules/PostsCarousel/PostsCarousel.php:948
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:949
+msgid "Auto Rotate Animation Speed (in ms)"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:455
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:456
+#: includes/modules/PostsCarousel/PostsCarousel.php:955
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:956
+msgid ""
+"Here you can designate how long it takes for the carousel to complete a "
+"rotation. The higher the number the slower the animation."
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:458
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:459
+#: includes/modules/PostsCarousel/PostsCarousel.php:958
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:959
+msgid "Arrow Animation Speed (in ms)"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:465
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:466
+#: includes/modules/PostsCarousel/PostsCarousel.php:965
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:966
+msgid ""
+"Here you can designate how long it takes for the carousel to complete a "
+"rotation when the arrows are clicked. The higher the number the slower the "
+"animation."
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:468
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:469
+#: includes/modules/PostsCarousel/PostsCarousel.php:968
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:969
+msgid "Control Animation Speed (in ms)"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:475
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:476
+#: includes/modules/PostsCarousel/PostsCarousel.php:975
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:976
+msgid ""
+"Here you can designate how long it takes for the carousel to complete a "
+"rotation when the control dots are clicked. The higher the number the slower "
+"the animation."
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:478
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:479
+#: includes/modules/PostsCarousel/PostsCarousel.php:978
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:979
+msgid "Pause on Hover"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:489
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:490
+#: includes/modules/PostsCarousel/PostsCarousel.php:989
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:990
+msgid "Pause carousel rotation when user hovers over the slides"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:495
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:496
+#: includes/modules/PostsCarousel/PostsCarousel.php:781
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:782
+msgid "Navigation Thumbnail Alignment"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:500
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:501
+#: includes/modules/PostsCarousel/PostsCarousel.php:786
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:787
+msgid "Right"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:501
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:502
+#: includes/modules/PostsCarousel/PostsCarousel.php:787
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:788
+msgid "Left"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:510
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:511
+#: includes/modules/PostsCarousel/PostsCarousel.php:796
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:797
+msgid "Navigation thumbnails image alignment."
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:513
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:514
+#: includes/modules/PostsCarousel/PostsCarousel.php:799
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:800
+msgid "Navigation Thumbnail Size"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:524
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:525
+#: includes/modules/PostsCarousel/PostsCarousel.php:810
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:811
+msgid ""
+"Navigation thumbnails image source size. You can further adjust the image "
+"size using CSS in the Navigation Thumbnail Image box in the Advanced tab."
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:527
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:528
+#: includes/modules/PostsCarousel/PostsCarousel.php:1008
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:1009
+msgid "Thumbnail Size"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:532
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:533
+msgid ""
+"Change image size. <b>This option is currently not rendering in the live "
+"preview. You’ll need to view your changes on the front end.</b>"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:537
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:538
+#: includes/modules/PostsCarousel/PostsCarousel.php:1018
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:1019
+msgid "Thumbnails to Display"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:569
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:570
+#: includes/modules/PostsCarousel/PostsCarousel.php:1050
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:1051
+msgid "Item Margin"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:573
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:574
+#: includes/modules/PostsCarousel/PostsCarousel.php:1054
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:1055
+msgid ""
+"Define the margin for each item at the carousel. Leave blank for default "
+"( 8 ) "
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:581
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:582
+#: includes/modules/PostsCarousel/PostsCarousel.php:1062
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:1063
+msgid "Items Background"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:589
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:590
+#: includes/modules/PostsCarousel/PostsCarousel.php:1070
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:1071
+msgid "Text Color"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:593
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:594
+#: includes/modules/PostsCarousel/PostsCarousel.php:1074
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:1075
+msgid "Dark"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:594
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:595
+#: includes/modules/PostsCarousel/PostsCarousel.php:1075
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:1076
+msgid "Light"
+msgstr ""
+
+#: includes/modules/ImageCarousel/ImageCarousel.php:599
+#: includes/modules/ImageCarouselFW/ImageCarouselFW.php:600
+#: includes/modules/PostsCarousel/PostsCarousel.php:1080
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:1081
+msgid ""
+"Here you can choose whether your text should be light or dark. If you are "
+"working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:15
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:16
+msgid "Images"
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:19
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:19
+msgid "New Image"
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:20
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:20
+msgid "Image Settings"
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:37
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:37
+msgid "Image URL"
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:40
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:40
+msgid "Upload an image"
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:41
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:41
+msgid "Choose an Image"
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:42
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:42
+msgid "Set As Image"
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:43
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:43
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display."
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:46
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:46
+msgid "Open in Lightbox"
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:54
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:54
+msgid ""
+"Here you can choose whether or not the image should open in Lightbox. Note: "
+"if you select to open the image in Lightbox, url options below will be "
+"ignored."
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:57
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:57
+msgid "Use Original Image"
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:65
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:65
+#: includes/modules/PostsCarousel/PostsCarousel.php:1005
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:1006
+msgid ""
+"Load the original image instead of looking for image thumbnail. If images "
+"are small and do not have a thumbnail in the size selected, this option will "
+"load the full size of the image."
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:68
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:68
+msgid "Link URL"
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:72
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:72
+msgid ""
+"If you would like your image to be a link, input your destination URL here. "
+"No link will be created if this field is left blank."
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:75
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:75
+msgid "Url Opens"
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:79
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:79
+msgid "In The Same Window"
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:80
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:80
+msgid "In The New Tab"
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:83
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:83
+msgid "Here you can choose whether or not your link opens in a new window"
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:89
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:89
+msgid "Image title displays below image"
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:95
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:95
+msgid "Image content displays below image title"
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:98
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:98
+msgid "Image Alternative Text"
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:101
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:101
+msgid ""
+"This defines the HTML ALT text. A short description of your image can be "
+"placed here."
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:104
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:104
+msgid "Image Title Text"
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:107
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:107
+msgid "This defines the HTML Title text."
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:110
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:110
+msgid "Admin Label"
+msgstr ""
+
+#: includes/modules/ImageCarouselItem/ImageCarouselItem.php:113
+#: includes/modules/ImageCarouselItemFW/ImageCarouselItemFW.php:113
+msgid ""
+"This will change the label of the image in the builder for easy "
+"identification."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:14
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:15
+msgid "DP Owl Carousel"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:31
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:32
+msgid "Query Arguments"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:32
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:33
+msgid "Posts Elements"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:67
+#: includes/modules/PostsCarousel/PostsCarousel.php:141
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:68
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:142
+msgid "Post Title"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:75
+#: includes/modules/PostsCarousel/PostsCarousel.php:145
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:76
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:146
+msgid "Post Meta"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:83
+#: includes/modules/PostsCarousel/PostsCarousel.php:161
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:84
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:162
+msgid "Post Excerpt"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:91
+#: includes/modules/PostsCarousel/PostsCarousel.php:165
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:92
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:166
+msgid "Read More Link"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:99
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:100
+msgid "Custom Fields"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:137
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:138
+msgid "Post Image"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:149
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:150
+msgid "Custom Fields Container"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:153
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:154
+msgid "Custom Field Label"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:157
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:158
+msgid "Custom Field Value"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:185
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:186
+msgid "Custom Query"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:193
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:194
+msgid ""
+"Turn this option on if you want to create a custom query that is not "
+"possible using the options below. Once this option is turned on, all Content "
+"options below will be ignored and the module will load the 10 most recent "
+"blog posts by default. You can override this query using the following "
+"filter in your child theme's functions.php file: "
+"<strong>dp_ocp_custom_query_args</strong>. For more information and to see "
+"an example, see demo at <a href=\"https://www.diviplugins.com/divi-custom-"
+"queries/\" target=\"_blank\">Divi Plugins</a>"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:198
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:199
+msgid "Posts Number"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:203
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:204
+msgid "How many posts you want to include in the carousel"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:208
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:209
+msgid "Offset Number"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:215
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:216
+msgid "Choose how many posts you would like to offset by"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:218
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:219
+msgid "Remove Current Post"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:229
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:230
+msgid ""
+"Turn on if you want to remove the current post when you are using the "
+"carousel from the query. Useful if you want to show a carousel of related "
+"content."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:232
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:233
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:241
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:242
+msgid "Turn this option on to ignore sticky posts."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:246
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:247
+msgid "Custom Post Type Name"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:253
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:254
+msgid "Check which posts types you would like to include in the layout"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:256
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:257
+msgid "Categories"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:262
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:263
+msgid "Check which categories you would like to include in the carousel"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:265
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:266
+msgid "Include/Exclude Taxonomy"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:272
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:273
+msgid ""
+"Here you can control which taxonomy the include/exclude terms apply to. "
+"Leave empty for posts tags. For other CPTs, enter the taxonomy name above. "
+"For projects, the tag taxonomy name is project_tag."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:275
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:276
+msgid "Include Terms"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:281
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:282
+msgid ""
+"Enter a single term id or a comma separated list of terms ids. All posts in "
+"the categories above AND WITH these terms will load. Leave empty if you only "
+"want to filter using the categories above."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:284
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:285
+msgid "Exclude Terms"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:290
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:291
+msgid ""
+"Enter a single term id or a comma separated list of terms ids. All posts in "
+"the categories above AND WITHOUT these terms will load. Leave empty if you "
+"only want to filter using the categories above."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:293
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:294
+msgid "Order By"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:297
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:298
+msgid "Post ID"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:298
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:299
+msgid "Date"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:299
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:300
+msgid "Title"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:300
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:301
+msgid "Slug"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:301
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:302
+msgid "Random"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:302
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:303
+msgid "Menu Order"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:303
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:304
+msgid "Last Modified Date"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:304
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:305
+msgid "Comments Count"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:305
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:306
+msgid "Parent ID"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:306
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:307
+msgid "Post Type"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:307
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:308
+msgid "Author"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:308
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:309
+msgid "Custom Field"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:312
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:313
+msgid "Choose how to sort posts"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:317
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:318
+msgid "Custom Field Name"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:325
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:326
+msgid "Enter the custom field name."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:330
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:331
+msgid "Custom Field Type"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:349
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:350
+msgid "Enter the custom field type."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:354
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:355
+msgid "Order"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:358
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:359
+msgid "Desc"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:359
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:360
+msgid "Asc"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:363
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:364
+msgid "Choose which order to display posts"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:371
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:372
+msgid "Show Featured Image"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:379
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:380
+msgid "This will turn thumbnails on and off."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:384
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:385
+msgid "Show Title"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:394
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:395
+msgid "Turn the title on or off."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:397
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:398
+msgid "Show Author"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:405
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:406
+msgid "Turn on or off the author link."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:410
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:411
+msgid "Author Prefix"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:413
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:414
+msgid "By "
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:415
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:416
+msgid "Custom prefix displayed before author name."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:420
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:421
+msgid "Show Category"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:430
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:431
+msgid "Turn the category on or off."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:433
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:434
+msgid "Show Date"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:443
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:444
+msgid "Turn the post date on or off."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:446
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:447
+msgid "Show Comment Count"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:454
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:455
+msgid "Turn comment count on or off."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:459
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:460
+msgid "Show Custom Fields"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:469
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:470
+msgid "Displays custom fields set in each post."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:472
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:473
+msgid "Custom Field Names"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:478
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:479
+msgid "Enter a single custom field name or a comma separated list of names."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:481
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:482
+msgid "Custom Field Labels"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:487
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:488
+msgid ""
+"Enter custom field label (including separator and spaces) or a comma "
+"separated list of labels in the same order as the names above. The number of "
+"labels must equal the number of names above, otherwise the name above will "
+"be used as the label for each custom field. For more information, see demo "
+"at <a href=\"http://www.diviplugins.com/owl-carousel-pro-plugin/\">Divi "
+"Plugins</a>"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:490
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:491
+msgid "Show Excerpt"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:500
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:501
+msgid "Turn the post excerpt on or off."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:503
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:504
+msgid "Automatic Excerpt Length"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:508
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:509
+msgid ""
+"Define the length of automatically generated excerpts. Leave blank for "
+"default ( 270 ) "
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:513
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:514
+msgid "Show Read More Link"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:524
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:525
+msgid "Turn the read more link on or off."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:527
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:528
+msgid "Read More Text"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:535
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:536
+msgid "Define the read more text. Leave blank for default ( read more ) "
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:540
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:541
+msgid "Show Custom Content"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:544
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:545
+msgid "Off"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:545
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:546
+msgid "On"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:548
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:549
+msgid "Show or hide custom content via dp_ocp_custom_content filter."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:553
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:554
+msgid "Use Custom URL"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:561
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:562
+msgid "Changes the URL to a custom field value set in each post."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:566
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:567
+msgid "Custom Field for URL"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:569
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:570
+msgid ""
+"Enter custom field name (NOT the URL). The URL value needs to be set in each "
+"post using the custom field you input here. If no value is set, defaults to "
+"post URL."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:868
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:869
+msgid "Open In Lightbox"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:878
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:879
+msgid "Image opens in lightbox instead of opening blog post."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:895
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:896
+msgid "Open Custom Lightbox Gallery"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:905
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:906
+msgid ""
+"Turn this option on to display a custom lightbox gallery of images when the "
+"featured image is clicked. Enter the custom field name below containing the "
+"image or array of images to load for each post. You can also provide an "
+"image or array of images using the <a href=\"https://diviplugins.com/"
+"documentation/owl-carousel-pro/custom-lightbox/\">Custom Lightbox filter</a>."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:908
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:909
+msgid "Custom Field Name for Images"
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:919
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:920
+msgid ""
+"Enter the custom field name containing the image or array of images you "
+"would like to load in the custom lightbox gallery. Leave this empty to use "
+"the <a href=\"https://diviplugins.com/documentation/portfolio-posts-pro/"
+"custom-lightbox/\">Custom Lightbox filter</a>."
+msgstr ""
+
+#: includes/modules/PostsCarousel/PostsCarousel.php:995
+#: includes/modules/PostsCarouselFW/PostsCarouselFW.php:996
+msgid "Original Size"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "DP Owl Carousel Pro"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.diviplugins.com/divi/owl-carousel-pro-plugin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Adds two new modules to the Divi Builder. One module creates a carousel from "
+"posts and custom post types. The other module creates a carousel from images "
+"you add. The Pro version adds support for Custom Post Types, custom query, "
+"change thumbnail size, change number of images shown at once, open image in "
+"lightbox, and display custom fields."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "DiviPlugins"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.diviplugins.com"
+msgstr ""

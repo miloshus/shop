@@ -1,0 +1,104 @@
+0000.011 (R) [notice] Looking for db archive: file name: backup_2020-10-15-2351_shop_5958e73c8a41-db.gz
+0000.011 (R) [notice] Archive is expected to be size: 219.4 KB: OK
+0000.012 (R) [notice] Looking for plugins archive: file name: backup_2020-10-15-2351_shop_5958e73c8a41-plugins.zip
+0000.012 (R) [notice] Archive is expected to be size: 22046 KB: OK
+0000.012 (R) [notice] Looking for themes archive: file name: backup_2020-10-15-2351_shop_5958e73c8a41-themes.zip
+0000.012 (R) [notice] Archive is expected to be size: 11985.5 KB: OK
+0000.012 (R) [notice] Looking for uploads archive: file name: backup_2020-10-15-2351_shop_5958e73c8a41-uploads.zip
+0000.012 (R) [notice] Archive is expected to be size: 10814.9 KB: OK
+0000.012 (R) [notice] Looking for others archive: file name: backup_2020-10-15-2351_shop_5958e73c8a41-others.zip
+0000.012 (R) [notice] Archive is expected to be size: 0.6 KB: OK
+0000.012 (R) [notice] Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.013 (R) [notice] Unpacking backup... (backup_2020-10-15-2351_shop_5958e73c8a41-db.gz, 0.2 Mb)
+0000.014 (R) [notice] Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.063 (R) [notice] Enabling Maintenance mode&#8230;
+0000.068 (R) [notice] Backup of: http://milosv.sgedu.site
+0000.068 (R) [notice] Content URL: http://milosv.sgedu.site/wp-content
+0000.068 (R) [notice] Uploads URL: http://milosv.sgedu.site/wp-content/uploads
+0000.068 (R) [notice] Old table prefix: wp_
+0000.069 (R) [notice] Site information: multisite = 0
+0000.069 (R) [notice] Site information: sql_mode = NO_ENGINE_SUBSTITUTION
+0000.069 (R) [notice] Skipped tables: ppr_commentmeta, ppr_comments, ppr_links, ppr_options, ppr_postmeta, ppr_posts, ppr_term_relationships, ppr_term_taxonomy, ppr_termmeta, ppr_terms, ppr_usermeta, ppr_users
+0000.069 (R) [notice] New table prefix: wp_
+0000.072 (R) [notice] Processing table (MyISAM):  wp_options
+0000.109 (R) [notice] Elegant themes theme builder plugin data detected: resetting temporary folder
+0000.114 (R) [notice] Processing table (MyISAM):  wp_users
+0000.122 (R) [notice] Processing table (MyISAM):  wp_usermeta
+0000.129 (R) [notice] Processing table (MyISAM):  wp_actionscheduler_actions
+0000.135 (R) [notice] Processing table (MyISAM):  wp_actionscheduler_claims
+0000.140 (R) [notice] Processing table (MyISAM):  wp_actionscheduler_groups
+0000.145 (R) [notice] Processing table (MyISAM):  wp_actionscheduler_logs
+0000.150 (R) [notice] Processing table (MyISAM):  wp_commentmeta
+0000.155 (R) [notice] Processing table (MyISAM):  wp_comments
+0000.161 (R) [notice] Processing table (MyISAM):  wp_links
+0000.166 (R) [notice] Processing table (MyISAM):  wp_postmeta
+0000.175 (R) [notice] Processing table (MyISAM):  wp_posts
+0000.188 (R) [notice] Processing table (MyISAM):  wp_term_relationships
+0000.194 (R) [notice] Processing table (MyISAM):  wp_term_taxonomy
+0000.200 (R) [notice] Processing table (MyISAM):  wp_termmeta
+0000.205 (R) [notice] Processing table (MyISAM):  wp_terms
+0000.210 (R) [notice] Database queries processed: 50 in 0.19 seconds
+0000.210 (R) [notice] Processing table (MyISAM):  wp_wc_category_lookup
+0000.215 (R) [notice] Processing table (MyISAM):  wp_wc_product_meta_lookup
+0000.220 (R) [notice] Processing table (MyISAM):  wp_wc_tax_rate_classes
+0000.225 (R) [notice] Processing table (MyISAM):  wp_woocommerce_order_itemmeta
+0000.230 (R) [notice] Processing table (MyISAM):  wp_woocommerce_payment_tokenmeta
+0000.235 (R) [notice] Processing table (MyISAM):  wp_gf_draft_submissions
+0000.239 (R) [notice] Processing table (MyISAM):  wp_gf_entry
+0000.244 (R) [notice] Processing table (MyISAM):  wp_gf_entry_meta
+0000.248 (R) [notice] Processing table (MyISAM):  wp_gf_entry_notes
+0000.253 (R) [notice] Processing table (MyISAM):  wp_gf_form
+0000.259 (R) [notice] Processing table (MyISAM):  wp_gf_form_meta
+0000.265 (R) [notice] Processing table (MyISAM):  wp_gf_form_revisions
+0000.270 (R) [notice] Processing table (MyISAM):  wp_gf_form_view
+0000.274 (R) [notice] Processing table (MyISAM):  wp_wc_admin_note_actions
+0000.279 (R) [notice] Processing table (MyISAM):  wp_wc_admin_notes
+0000.284 (R) [notice] Processing table (MyISAM):  wp_wc_customer_lookup
+0000.288 (R) [notice] Processing table (MyISAM):  wp_wc_download_log
+0000.293 (R) [notice] Processing table (MyISAM):  wp_wc_order_coupon_lookup
+0000.298 (R) [notice] Processing table (MyISAM):  wp_wc_order_product_lookup
+0000.303 (R) [notice] Processing table (MyISAM):  wp_wc_order_stats
+0000.308 (R) [notice] Processing table (MyISAM):  wp_wc_order_tax_lookup
+0000.314 (R) [notice] Processing table (MyISAM):  wp_wc_reserved_stock
+0000.317 (R) [notice] Database queries processed: 100 in 0.30 seconds
+0000.318 (R) [notice] Processing table (MyISAM):  wp_wc_webhooks
+0000.323 (R) [notice] Processing table (MyISAM):  wp_woocommerce_api_keys
+0000.329 (R) [notice] Processing table (MyISAM):  wp_woocommerce_attribute_taxonomies
+0000.333 (R) [notice] Processing table (MyISAM):  wp_woocommerce_downloadable_product_permissions
+0000.338 (R) [notice] Processing table (MyISAM):  wp_woocommerce_log
+0000.343 (R) [notice] Processing table (MyISAM):  wp_woocommerce_order_items
+0000.349 (R) [notice] Processing table (MyISAM):  wp_woocommerce_payment_tokens
+0000.354 (R) [notice] Processing table (MyISAM):  wp_woocommerce_sessions
+0000.359 (R) [notice] Processing table (MyISAM):  wp_woocommerce_shipping_zone_locations
+0000.364 (R) [notice] Processing table (MyISAM):  wp_woocommerce_shipping_zone_methods
+0000.369 (R) [notice] Processing table (MyISAM):  wp_woocommerce_shipping_zones
+0000.373 (R) [notice] Processing table (MyISAM):  wp_woocommerce_tax_rate_locations
+0000.378 (R) [notice] Processing table (MyISAM):  wp_woocommerce_tax_rates
+0000.394 (R) [notice] Disabling Maintenance mode&#8230;
+0000.395 (R) [notice] Finished: lines processed: 130 in 0.38 seconds
+0000.395 (R) [notice] Cleaning up rubbish...
+0000.402 (R) [notice] Unpacking backup... (backup_2020-10-15-2351_shop_5958e73c8a41-plugins.zip, 21.5 MB)
+0000.527 (R) [notice] Unzip progress: 1002 out of 5661 files (5 MB, plugins/updraftplus/includes/cloudfiles/cloudfiles.php)
+0000.684 (R) [notice] Unzip progress: 2003 out of 5661 files (24 MB, plugins/updraftplus/vendor/guzzle/guzzle/src/Guzzle/Common/HasDispatcherInterface.php)
+0000.802 (R) [notice] Unzip progress: 3004 out of 5661 files (35.7 MB, plugins/sg-cachepress/assets/images/svg/product-referral-program-step-two.svg)
+0000.932 (R) [notice] Unzip progress: 4005 out of 5661 files (49.1 MB, plugins/woocommerce-4.1.0/vendor/composer/installers/src/Composer/Installers/BaseInstaller.php)
+0001.034 (R) [notice] Unzip progress: 5006 out of 5661 files (58.5 MB, plugins/woocommerce-4.1.0/packages/woocommerce-blocks/vendor/automattic/jetpack-autoloader/src/CustomAutoloaderPlugin.php)
+0001.131 (R) [notice] Unzip progress: 5661 out of 5661 files (72.5 MB, plugins/woocommerce-4.1.0/packages/woocommerce-blocks/assets/js/base/components/checkbox-list/index.js)
+0001.134 (R) [notice] Moving old data out of the way...
+0001.306 (R) [notice] Moving unpacked backup into place...
+0001.461 (R) [notice] Cleaning up rubbish...
+0001.463 (R) [notice] Unpacking backup... (backup_2020-10-15-2351_shop_5958e73c8a41-themes.zip, 11.7 MB)
+0001.807 (R) [notice] Unzip progress: 1002 out of 1286 files (33.6 MB, themes/Divi/core/admin/images/svg/security.svg)
+0001.846 (R) [notice] Unzip progress: 1286 out of 1286 files (38.2 MB, themes/twentynineteen/image.php)
+0001.848 (R) [notice] Moving old data out of the way...
+0001.885 (R) [notice] Moving unpacked backup into place...
+0001.920 (R) [notice] Cleaning up rubbish...
+0001.922 (R) [notice] Unpacking backup... (backup_2020-10-15-2351_shop_5958e73c8a41-uploads.zip, 10.6 MB)
+0001.965 (R) [notice] Unzip progress: 322 out of 322 files (10.5 MB, uploads/woocommerce-placeholder-768x768.png)
+0001.965 (R) [notice] Moving old data out of the way...
+0001.976 (R) [notice] Moving unpacked backup into place...
+0001.984 (R) [notice] Cleaning up rubbish...
+0001.986 (R) [notice] Unpacking backup... (backup_2020-10-15-2351_shop_5958e73c8a41-others.zip, 0 MB)
+0001.987 (R) [notice] Unzip progress: 4 out of 4 files (28 B, index.php)
+0001.987 (R) [notice] Cleaning up rubbish...
+0002.003 (R) [notice] Restore successful!
